@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/filter0"
+        android:title="Original"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/filter1"
+        android:title="Red/Green"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/filter2"
+        android:title="Blue/Yellow"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/filter3"
+        android:title="Red/Green AR"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/filter4"
+        android:title="Blue/Yellow AR"
+        app:showAsAction="never" />
+
+</menu>
