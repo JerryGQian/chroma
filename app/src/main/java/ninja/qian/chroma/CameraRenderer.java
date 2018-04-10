@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package cn.nekocode.camerafilter;
+package ninja.qian.chroma;
 
 import android.content.Context;
 import android.graphics.SurfaceTexture;
@@ -34,13 +34,13 @@ import javax.microedition.khronos.egl.EGLDisplay;
 import javax.microedition.khronos.egl.EGLSurface;
 
 
-import cn.nekocode.camerafilter.filter.BlueYellowFilter;
-import cn.nekocode.camerafilter.filter.BlueYellowVRFilter;
-import cn.nekocode.camerafilter.filter.CameraFilter;
+import ninja.qian.chroma.filter.BlueYellowFilter;
+import ninja.qian.chroma.filter.BlueYellowVRFilter;
+import ninja.qian.chroma.filter.CameraFilter;
 
-import cn.nekocode.camerafilter.filter.OriginalFilter;
-import cn.nekocode.camerafilter.filter.RedGreenFilter;
-import cn.nekocode.camerafilter.filter.RedGreenVRFilter;
+import ninja.qian.chroma.filter.OriginalFilter;
+import ninja.qian.chroma.filter.RedGreenFilter;
+import ninja.qian.chroma.filter.RedGreenVRFilter;
 
 /**
  * @author nekocode (nekocode.cn@gmail.com)

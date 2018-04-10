@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package cn.nekocode.camerafilter.filter;
+package ninja.qian.chroma.filter;
 
 import android.content.Context;
 import android.opengl.GLES11Ext;
@@ -24,9 +24,9 @@ import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.FloatBuffer;
 
-import cn.nekocode.camerafilter.MyGLUtils;
-import cn.nekocode.camerafilter.R;
-import cn.nekocode.camerafilter.RenderBuffer;
+import ninja.qian.chroma.MyGLUtils;
+import ninja.qian.chroma.R;
+import ninja.qian.chroma.RenderBuffer;
 
 /**
  * @author nekocode (nekocode.cn@gmail.com)

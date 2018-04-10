@@ -15,7 +15,7 @@
  *
  * Modified heavily by Jerry and Andrew for Bitcamp 2018
  */
-package cn.nekocode.camerafilter;
+package ninja.qian.chroma;
 import android.Manifest;
 import android.annotation.SuppressLint;
 import android.content.pm.PackageManager;

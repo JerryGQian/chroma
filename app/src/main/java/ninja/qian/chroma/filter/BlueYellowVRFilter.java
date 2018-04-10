@@ -13,25 +13,25 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package cn.nekocode.camerafilter.filter;
+package ninja.qian.chroma.filter;
 
 import android.content.Context;
 import android.opengl.GLES20;
 
-import cn.nekocode.camerafilter.MyGLUtils;
-import cn.nekocode.camerafilter.R;
+import ninja.qian.chroma.MyGLUtils;
+import ninja.qian.chroma.R;
 
 /**
  * @author nekocode (nekocode.cn@gmail.com)
  */
-public class RedGreenFilter extends CameraFilter {
+public class BlueYellowVRFilter extends CameraFilter {
     private int program;
 
-    public RedGreenFilter(Context context) {
+    public BlueYellowVRFilter(Context context) {
         super(context);
 
         // Build shaders
-        program = MyGLUtils.buildProgram(context, R.raw.vertext, R.raw.redgreen);
+        program = MyGLUtils.buildProgram(context, R.raw.vertext, R.raw.blueyellowvr);
     }
 
     @Override
