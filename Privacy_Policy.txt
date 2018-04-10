@@ -1,0 +1,6 @@
+Privacy Policy for ChromaAR
+
+We don't store any data. We physically can't. It does not store locally or on any external server.
+The app is required to request for permission to use the device camera for basic function.
+
+April 10, 2018
