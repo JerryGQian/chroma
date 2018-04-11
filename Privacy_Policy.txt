@@ -1,1 +1,6 @@
-Melonius Games (hereon referred to as the developer) does not store, broadcast, preserve, or otherwise make records of any user data, including but not limited to all content captured by the camera of the device ChromaAR runs on. The developer is not liable for any misuse of ChromaAR and the software is provided AS IS. Any camera feed data collected is the sole property of the user and the user claims full responsibility for the collection, depiction, and interpretation of data.
+Melonius Games (hereon referred to as the developer) does not store, broadcast, preserve, 
+or otherwise make records of any user data, including but not limited to all content 
+captured by the camera of the device ChromaAR runs on. The developer is not liable for 
+any misuse of ChromaAR and the software is provided AS IS. Any camera feed data collected 
+is the sole property of the user and the user claims full responsibility for the 
+collection, depiction, and interpretation of data.
